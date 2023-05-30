@@ -1,9 +1,9 @@
 # titulo 1
 ## titulo 2
 
-*elemento1
-*elemento2
-*elemento3
+* elemento1
+* elemento2
+* elemento3
 
 1. elemento ordenado1
 2. elemento ordenado2
